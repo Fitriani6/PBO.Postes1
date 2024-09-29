@@ -10,8 +10,11 @@ id: Digunakan untuk mengidentifikasi setiap siswa. Nilai ini otomatis bertambah 
 nama: Nama siswa misalnya Helen.
 kelas: Kelas dari siswa, misalnya 1A atau 2B.
 idSiswa: Properti statis yang digunakan untuk menghasilkan ID siswa secara otomatis dan berkelanjutan. 
+
     public DataSiswa(String nama, String kelas) {
     this.id = idSiswa++;
     this.nama = nama;
     this.kelas = kelas;
 }
+Constructor ini digunakan untuk membuat objek siswa baru. Setiap kali objek DataSiswa dibuat, ID siswa akan otomatis ditingkatkan dengan menggunakan properti statis idSiswa.
+
