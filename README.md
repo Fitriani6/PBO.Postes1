@@ -149,20 +149,25 @@ Kelas ini mengelola seluruh logika CRUD (Create, Read, Update, Delete) untuk dat
 
 # PENJELASAN OUTPUT
 1. Masuk ke Menu Utama
+   
    ![image](https://github.com/user-attachments/assets/eb1182fb-4151-44f9-befe-a98beadc8a51)
 
 3. Menu Menambah Siswa
+   
    ![image](https://github.com/user-attachments/assets/cea12fdb-8264-4b93-95c3-b3213e1edfa3)
 
 5. Menu Melihat Data Siswa
+   
    ![image](https://github.com/user-attachments/assets/cfa7ac3f-0607-481e-bf0b-d147bd51e010)
 
 7. Menu Meng-update Siswa
+   
    ![image](https://github.com/user-attachments/assets/4b724daa-6b53-4b71-8f80-5e69f2ce7fb4)
    ![image](https://github.com/user-attachments/assets/85607940-e526-4064-bef8-ecd4f133f8a0)
 
 
 9. Menu Hapus data Siswa
+    
     ![image](https://github.com/user-attachments/assets/b27f3dfb-484a-4704-b4cc-57835a7478f8)
    ![image](https://github.com/user-attachments/assets/eac85a38-7981-4a5b-a884-6012aaa69fd9)
 
