@@ -15,6 +15,8 @@ idSiswa: Properti statis yang digunakan untuk menghasilkan ID siswa secara otoma
     this.id = idSiswa++;
     this.nama = nama;
     this.kelas = kelas;
-}
+    }
 Constructor ini digunakan untuk membuat objek siswa baru. Setiap kali objek DataSiswa dibuat, ID siswa akan otomatis ditingkatkan dengan menggunakan properti statis idSiswa.
 
+#Penjelasaan Kelas CRUDSiswa package manajemenSiswa
+Kelas ini mengelola seluruh logika CRUD (Create, Read, Update, Delete) untuk data siswa serta semua operasi terhadap daftar siswa dilakukan dalam kelas ini. properti yang digunakan adalah 
