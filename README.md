@@ -19,9 +19,9 @@ filed-fieled ini digunakan untuk menyimpan informasi tentang data siswa serta me
     }
 Constructor ini digunakan untuk membuat objek siswa baru. Setiap kali objek DataSiswa dibuat, ID siswa akan otomatis ditingkatkan dengan menggunakan properti statis idSiswa.
 
-# Penjelasaan Kelas CRUDSiswa package manajemenSiswa
+## Penjelasaan Kelas CRUDSiswa package manajemenSiswa
 Kelas ini mengelola seluruh logika CRUD (Create, Read, Update, Delete) untuk data siswa serta semua operasi terhadap daftar siswa dilakukan dalam kelas ini. properti yang digunakan adalah daftar siswa, scanner(digunakan untuk membaca input dari pengguna melalui konsol), dan tahun ajaran. 
-# CRUDSiswa
+## CRUDSiswa
 1. Import Library
    adapun beberapa pustaka (library) yang diperlukan yaitu
    -import com.mycompany.manajemensiswa.Siswa.*; mengimport datasiswa untuk mempresentasikan data siswa
@@ -35,7 +35,7 @@ Kelas ini mengelola seluruh logika CRUD (Create, Read, Update, Delete) untuk dat
    private static Scanner scanner = new Scanner(System.in); objek scanner menerima input
    private static String tahunAjaran = "2024/2025"; untuk memasukkan nama dan kelas pada tahun ajaran 2024/2025.
    
-# Metode 
+## Metode 
 1. Metode tambahSisswa
    Metode ini digunakan untuk manambahkan data siswa baru ke dalam daftar tahun ajaran baru 2024/2025 yang dimana pengguna di minta untuk memasukkan nama siswa.
    public static void tambahSiswa() {
@@ -147,7 +147,7 @@ Kelas ini mengelola seluruh logika CRUD (Create, Read, Update, Delete) untuk dat
 }
 
 
-# PENJELASAN OUTPUT
+## PENJELASAN OUTPUT
 1. Masuk ke Menu Utama
    
    ![image](https://github.com/user-attachments/assets/eb1182fb-4151-44f9-befe-a98beadc8a51)
