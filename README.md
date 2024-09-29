@@ -1,9 +1,9 @@
 # Nama : Fitriani
 # NIM : 2309116021
 # Kelas : A 2023
-# Penjelasan Program Manajemen Akademik Siswa
-
-# Penjelasan kelas data.siswa package siswa
+### Penjelasan Program Manajemen Akademik Siswa
+Dalam sistem pendidikan, pengelolaan data siswa merupakan bagian penting dari manajemen akademik yang harus dilakukan secara terorganisir dan efisien. Hal ini mencakup pengelolaan informasi seperti nama siswa, kelas, dan tahun ajaran. pengelola data siswa secara digital akan mempermudah pekerjaan administratif di institusi pendidikan yang dimana admin dapat melakukan CRUD.
+## Penjelasan kelas data.siswa package siswa
 Pada data siswa ini untuk merepresentasikan objek siswa secara individual. Setiap objek siswa memiliki atribut atau properti, dan kelas ini menyediakan konstruktor, getter, setter, dan method untuk menangani data tersebut.
 Properti Kelas DataSiswa:
 id: Digunakan untuk mengidentifikasi setiap siswa. Nilai ini otomatis bertambah setiap kali objek DataSiswa baru dibuat. ID ini digunakan sebagai identitas utama dalam operasi CRUD.
