@@ -21,3 +21,5 @@ Constructor ini digunakan untuk membuat objek siswa baru. Setiap kali objek Data
 
 # Penjelasaan Kelas CRUDSiswa package manajemenSiswa
 Kelas ini mengelola seluruh logika CRUD (Create, Read, Update, Delete) untuk data siswa serta semua operasi terhadap daftar siswa dilakukan dalam kelas ini. properti yang digunakan adalah daftar siswa, scanner(digunakan untuk membaca input dari pengguna melalui konsol), dan tahun ajaran. 
+# CRUDSiswa
+
